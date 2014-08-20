@@ -19,3 +19,4 @@ questions
   13. extend the stack with getMin() 
   14. detect cycle in a linked list
   15. Given a matrix, 每个格子是doors 或 rooms, 算出每个room的到door的最短距离（任何一个门）
+  16. MxN矩阵，0所在的行和列都置0
